@@ -1,0 +1,1 @@
+﻿Copy-Item E:\Scripts\Powershell\* \\192.168.2.117\powershell -Recurse
